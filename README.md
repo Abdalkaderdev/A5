@@ -17,15 +17,16 @@ A5 is an interactive 360° panoramic virtual tour of an apartment located in Que
 
 The virtual tour includes the following areas:
 
-1. **Kitchen** - Modern kitchen with appliances and dining area
-2. **Hall** - Main entrance and hallway
-3. **Boulevard View** - Outdoor boulevard-facing view
-4. **Balcony** - Additional balcony space
-5. **Room** - Standard bedroom
-6. **Bathroom** - Main bathroom facilities
-7. **Master Bathroom** - En-suite master bathroom
-8. **Master Room** - Primary bedroom suite
-9. **Master Balcony** - Additional outdoor space
+1. Bathroom
+2. Kitchen
+3. Hall
+4. Boulevard View
+5. Bathroom 2
+6. Room
+7. Balcony
+8. Master Bathroom
+9. Master Room
+10. Master Balcony
 
 ## 🛠️ Technology Stack
 
